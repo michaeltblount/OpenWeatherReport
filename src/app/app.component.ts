@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { CurrentforecastComponent } from './currentforecast/currentforecast.component';
+import { TendayforecastComponent } from './tendayforecast/tendayforecast.component';
 
 @Component({
   selector: 'app-root',
